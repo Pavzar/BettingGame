@@ -8,5 +8,3 @@ Java 17, Spring boot 2,
 HTML/CSS, Bootstrap,
 JQuery, JavaScript, SockJS, StompJS
 
-Check test folder for Unit tests and RTP test.
-
